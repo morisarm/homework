@@ -3,7 +3,7 @@
 int main() {
     int a, b, temp;
 
-    printf("Type two digit number:\n");
+    printf("Type any two numbers using space between them:\n");
     scanf("%d %d", &a, &b);
 
     temp = a;
