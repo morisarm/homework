@@ -3,6 +3,7 @@
 int main() {
     int a, b, temp;
 
+    printf("Type two digit number:\n");
     scanf("%d %d", &a, &b);
 
     temp = a;
